@@ -1,4 +1,4 @@
-Heroku buildpack: FFMpeg
+Heroku buildpack: FFMpeg 2.5
 =======================
 
 This is a [Heroku buildpack](http://devcenter.heroku.com/articles/buildpacks) for using [ffmpeg](http://www.ffmpeg.org/) in your project.  
